@@ -5,3 +5,5 @@ english：poison milk
 qinyu：dunai
 minyu=qinyu
 nai=lai
+
+see also: dic/du/dulai
