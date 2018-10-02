@@ -5,4 +5,4 @@
 3. 约
 4. 越
 
-月：seo also > dic/yu/Yue4.md
+月：seo also > dic/yu/Yue4M
