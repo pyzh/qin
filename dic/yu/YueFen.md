@@ -15,7 +15,7 @@ english：January February March April May June July August September October No
 
 https://en.wikipedia.org/wiki/Month
 
-min：Janewli Febleri March/Marqu Apre/Aiple May/Mei Jiu Julai Augeste/Ogesto Septanbr Novanbr Desenbr
+min：Janewli Febleri March/Marqu Apre/Aipule May/Mei Jiu Julai Augeste/Ogesto Septanbr Novanbr Desenbr
 
 qin：yo=yae=yer/yue, yiyer ryo sanyo sooyo wuyo luyo chiiyo bayo juyo siyo syiyo sryo
 
