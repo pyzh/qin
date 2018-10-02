@@ -11,6 +11,14 @@ proposal：
 规范/旧日：睦月，如月，弥生，卯月，皋月，水无月；文月，叶月，长月，神无月，霜月，师走
 
 
+english：January February March April May June July August September October November December
+
+https://en.wikipedia.org/wiki/Month
+
+min：Janewli Febleri March/Marqu Apre/Aiple May/Mei Jiu Julai Augeste/Ogesto Septanbr Novanbr Desenbr
+
+qin：yo=yae=yer/yue, yiyer ryo sanyo sooyo wuyo luyo chiiyo bayo juyo siyo syiyo sryo
+
 extra/农历：#to be done
 
 1-律中太簇|正月/端月/虎月/建寅、孟春、杨月、太簇、泰月、春王、新正\元月、开岁、嘉月、瑞月、陬月、孟陬、柳月、初月等\首阳，
